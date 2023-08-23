@@ -1,0 +1,17 @@
+C:\Users\Ariel\Desktop\Room Management\bin\Release\Project.exe
+C:\Users\Ariel\Desktop\Room Management\bin\Release\Project.pdb
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormAbstractEdit.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormAddDormRoom.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormAdd.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormAddLab.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormAddLectureRoom.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormEditDormRoom.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormEditLectureRoom.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormRoomManagement.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormStatistics.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.FormEditLab.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.Properties.Resources.resources
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Room Management.csproj.GenerateResource.cache
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Room Management.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.exe
+C:\Users\Ariel\Desktop\Room Management\obj\Release\Project.pdb
